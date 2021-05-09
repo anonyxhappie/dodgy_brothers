@@ -1,4 +1,4 @@
-# Dodgy Brothers (Dealership App)
+# Dodgy Brothers (Car Dealership App)
 
 In the wake of the COVID pandemic, Dodgy Brothers (a car dealership) has decided to try its hand at selling used cars online. The dealership principal - Mike "Iron" Smith wants users to be able to submit their used cars for sale online for free.
 Buyers will then search for the cars online and apply to buy. When the car is marked as "sold", Mike will receive an email.
@@ -53,4 +53,4 @@ TOTAL                                               386     22    94%
 
 ### Basic ERD
 
-![ERD](DodgyBrothersERD.jpg?raw=true)
+![ERD](https://raw.githubusercontent.com/anonyxhappie/dodgy_brothers/main/DodgyBrothersERD.jpg)
